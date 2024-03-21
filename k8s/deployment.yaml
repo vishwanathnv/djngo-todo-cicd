@@ -4,7 +4,7 @@ kind: Deployment
 
 metadata:
 
-  name: todo-deployment
+  name: todo-deployment-1
 
   labels:
 
